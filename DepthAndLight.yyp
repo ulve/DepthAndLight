@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1daa9139-a6cf-4eb9-9b40-63c49356fc29",
+            "Value": {
+                "id": "0d9dac1c-7e6c-496c-a200-8feb4c641e43",
+                "resourcePath": "objects\\oNightCycle\\oNightCycle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2beef20a-6075-49f0-8947-33d819d7c2f3",
             "Value": {
                 "id": "dcac3ea8-a475-44aa-82c2-87f47a514172",
@@ -127,6 +135,14 @@
             }
         },
         {
+            "Key": "8da0266d-f4de-4587-9907-e10b136851c3",
+            "Value": {
+                "id": "df0b4280-6cd3-47b2-87c6-46f34bfb0dd0",
+                "resourcePath": "sprites\\sGlow\\sGlow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8e372ff8-5f8e-45af-a0f3-040d7d99cd30",
             "Value": {
                 "id": "7f321232-6276-4e24-9994-add0e2322d87",
@@ -172,6 +188,14 @@
                 "id": "c3433e95-d556-4702-bd74-f52215a45c61",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aedf243f-ff7f-4d83-a5eb-bab850d2651e",
+            "Value": {
+                "id": "ff76f2db-ae99-4f9e-af99-ffe80da24842",
+                "resourcePath": "objects\\oTorch\\oTorch.yy",
+                "resourceType": "GMObject"
             }
         },
         {

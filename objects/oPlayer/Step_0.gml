@@ -48,3 +48,10 @@ if(abs(velocity[vector2_x]) < friction && abs(velocity[vector2_y]) < friction) {
 x += velocity[vector2_x];
 y += velocity[vector2_y];
 depth = -1 * y
+var fx  = x;
+var fy  = y;
+// Move torch
+with(oTorch) {
+	x = fx;
+	y = fy;
+}
