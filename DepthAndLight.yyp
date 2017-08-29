@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "5429b6d6-5f57-4f7b-8648-9e5e05c4f588",
+            "Value": {
+                "id": "68e8ce7f-22e7-4239-ae30-c11df6f12023",
+                "resourcePath": "objects\\oWeather\\oWeather.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "61866f96-3f0a-4c0a-9bf3-9c9f505548bc",
             "Value": {
                 "id": "f5386ffb-171d-4d17-97b4-6acf2d5a8342",
@@ -124,6 +132,22 @@
                 "id": "7767a178-d28f-4ada-9312-d250affec71f",
                 "resourcePath": "views\\66b84c57-7970-4979-9889-b74b6da8f755.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "85cc6fe1-97fe-401b-98f1-bde0b99d37ae",
+            "Value": {
+                "id": "767f3f21-ed36-4a91-a7d1-862aa909ec1a",
+                "resourcePath": "sprites\\sWheet\\sWheet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8883fdf5-ad0e-4adc-9f79-5762f8a71d4d",
+            "Value": {
+                "id": "8aef1563-cf41-4d0d-a7ea-760299600ba7",
+                "resourcePath": "objects\\oWheer\\oWheer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -207,11 +231,27 @@
             }
         },
         {
+            "Key": "bf5c18c3-e43a-41fb-b7d3-d8d327384de8",
+            "Value": {
+                "id": "61007a22-888b-4251-9243-be04b98d2f23",
+                "resourcePath": "objects\\oWind\\oWind.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c236bb5c-f1ec-4a18-83ed-38c3ef0825f4",
             "Value": {
                 "id": "eb45d87b-d2a0-41c8-a3ec-3c42ab6dc248",
                 "resourcePath": "views\\c236bb5c-f1ec-4a18-83ed-38c3ef0825f4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c3abdef8-8cef-426e-bd46-8c6a0ac977e1",
+            "Value": {
+                "id": "8a170340-d050-4238-a561-c14f665f70ba",
+                "resourcePath": "sprites\\sWind\\sWind.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

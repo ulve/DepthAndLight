@@ -1,6 +1,6 @@
 alpha = 0.0;
-daylength = 2;
-nightlength = 2;
+daylength = 20;
+nightlength = 20;
 
 night_cycle_surface = surface_create(room_width, room_height);
 depth = -10000;
