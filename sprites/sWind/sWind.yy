@@ -39,7 +39,7 @@
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 64,
+    "height": 1,
     "layers": [
         {
             "id": "cf9610f3-7c77-4bf3-bcb4-222b0b8cc5ea",
@@ -62,7 +62,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 64,
+    "width": 1,
     "xorig": 0,
     "yorig": 0
 }
