@@ -21,6 +21,30 @@ if(y_input == 0) {
 	velocity[vector2_y] = lerp(velocity[vector2_y], 0, friction);
 }
 
+
+// Collision custom mask used
+if(place_meeting(x+velocity[vector2_x], y, oTree)) {
+	velocity[vector2_x] = 0;
+}
+
+if(place_meeting(x, y+velocity[vector2_y], oTree)) {
+	velocity[vector2_y] = 0;
+}
+
+// turn dude
+if(velocity[vector2_x] < -friction) {
+	image_xscale = -1;
+} else if(velocity[vector2_x] > friction) {
+	image_xscale = 1;
+}
+
+// idle
+if(abs(velocity[vector2_x]) < friction && abs(velocity[vector2_y]) < friction) {	
+	image_speed = 0;
+} else {
+	image_speed = 1;
+}
+
 x += velocity[vector2_x];
 y += velocity[vector2_y];
 depth = -1 * y
