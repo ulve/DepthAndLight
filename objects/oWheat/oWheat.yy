@@ -2,7 +2,7 @@
     "id": "8883fdf5-ad0e-4adc-9f79-5762f8a71d4d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oWheer",
+    "name": "oWheat",
     "eventList": [
         {
             "id": "821331e2-7266-4d09-b989-7c5860ba567d",
