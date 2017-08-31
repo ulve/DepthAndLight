@@ -8,13 +8,14 @@ draw_clear(c_black);
 with(oTorch) {
 	if(lit) {	
 		gpu_set_blendmode(bm_src_color);
-		draw_sprite(sGlow,0, x, y);
+		draw_sprite(sGlow,0, x, y-160);
 		gpu_set_blendmode(bm_normal);
 	}
 }
+
 
 // reset
 surface_reset_target();
 
 // draw
-draw_surface_ext(night_cycle_surface, 0, 0, 1, 1, 0, c_white, alpha);
+draw_surface_ext(night_cycle_surface, 0, 160, 1, 1, 0, c_white, alpha);

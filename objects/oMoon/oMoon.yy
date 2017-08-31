@@ -1,22 +1,13 @@
 {
-    "id": "61866f96-3f0a-4c0a-9bf3-9c9f505548bc",
+    "id": "99535dd9-7296-441f-ab80-3ca66e47461f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oTree",
+    "name": "oMoon",
     "eventList": [
-        {
-            "id": "3008c901-5544-4d56-bd12-a07fa2eec777",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "61866f96-3f0a-4c0a-9bf3-9c9f505548bc"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "5f4db4a8-a29c-43f8-b711-36ed2409dcd7",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -31,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "2beef20a-6075-49f0-8947-33d819d7c2f3",
+    "spriteId": "5aba0f1c-2dd2-420c-9a23-e2b4ebac8107",
     "visible": true
 }
