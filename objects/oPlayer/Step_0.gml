@@ -23,11 +23,11 @@ if(y_input == 0) {
 
 
 // Collision custom mask used
-if(place_meeting(x+velocity[vector2_x], y, oTree)) {
+if(place_meeting(x+velocity[vector2_x], y, oWall)) {
 	velocity[vector2_x] = 0;
 }
 
-if(place_meeting(x, y+velocity[vector2_y], oTree)) {
+if(place_meeting(x, y+velocity[vector2_y], oWall)) {
 	velocity[vector2_y] = 0;
 }
 

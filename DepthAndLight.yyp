@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "02ed6da9-1092-442e-aa84-3324d18ef13b",
+            "Value": {
+                "id": "effda779-ebda-49e6-9153-64d1a285e679",
+                "resourcePath": "sprites\\sBarrier\\sBarrier.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "054583f0-187e-4093-bb00-0b7453c4cd80",
             "Value": {
                 "id": "a7ed0419-2c94-442b-a9cc-0401e0aa0348",
@@ -59,6 +67,14 @@
             "Value": {
                 "id": "67900619-2252-4aeb-8332-f690931b9d76",
                 "resourcePath": "objects\\oMusicPlayer\\oMusicPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "289ac861-260b-49c1-a3b1-dd599bffe5ee",
+            "Value": {
+                "id": "c0157375-a851-4c68-93af-d8e0c92c3dcf",
+                "resourcePath": "objects\\oSky\\oSky.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -107,6 +123,22 @@
             "Value": {
                 "id": "68e8ce7f-22e7-4239-ae30-c11df6f12023",
                 "resourcePath": "objects\\oWeather\\oWeather.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5aba0f1c-2dd2-420c-9a23-e2b4ebac8107",
+            "Value": {
+                "id": "50163daa-2676-42c0-9bd6-ed98b1d62cba",
+                "resourcePath": "sprites\\sMoon\\sMoon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5f4db4a8-a29c-43f8-b711-36ed2409dcd7",
+            "Value": {
+                "id": "b1c19804-aba7-43f6-abed-f6510e6461fb",
+                "resourcePath": "objects\\oWall\\oWall.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -180,6 +212,14 @@
                 "id": "7f321232-6276-4e24-9994-add0e2322d87",
                 "resourcePath": "views\\8e372ff8-5f8e-45af-a0f3-040d7d99cd30.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "99535dd9-7296-441f-ab80-3ca66e47461f",
+            "Value": {
+                "id": "9dfb7f80-973a-40a6-89bb-50d2f3c19023",
+                "resourcePath": "objects\\oMoon\\oMoon.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -300,6 +340,14 @@
                 "id": "5e04a0b6-59ce-48e4-b7e0-3d5ab043246c",
                 "resourcePath": "sounds\\bgMusic\\bgMusic.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f0c48887-fd4c-4d01-bf03-8a544963dc3f",
+            "Value": {
+                "id": "1c0d563b-0ff8-4b6f-894a-17a7790b6d38",
+                "resourcePath": "objects\\oBarrier\\oBarrier.yy",
+                "resourceType": "GMObject"
             }
         },
         {

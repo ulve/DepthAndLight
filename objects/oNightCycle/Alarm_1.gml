@@ -11,3 +11,7 @@ if(alpha > 0)  {
 } else if(alpha <= 0) {
 	alarm[0] = room_speed * daylength;
 }
+
+with(oSky) {
+	alpha = other.alpha;
+}
