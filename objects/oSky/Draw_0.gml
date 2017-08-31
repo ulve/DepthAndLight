@@ -10,8 +10,9 @@ draw_set_color(c_black)
 draw_rectangle(0, 0, room_width, 160, false);
 
 // draw moon
-draw_sprite_ext(sMoon, 0, 200, 40, 1, 1, 0, c_white, alpha);
-
+with(oMoon) {
+	draw_sprite_ext(sMoon, 0, x, y, 1, 1, 0, c_white, other.alpha);
+}
 // reset
 surface_reset_target();
 draw_set_alpha(1.0);

@@ -8,9 +8,10 @@ with(oTorch) {
 if(alpha > 0)  {
 	alpha -= 0.01;
 	alarm[1] = 1;
-	with(oSky) {
-		alpha = other.alpha;
-	}
 } else if(alpha <= 0) {
 	alarm[0] = room_speed * daylength;
+}
+
+with(oSky) {
+	alpha = other.alpha;
 }
