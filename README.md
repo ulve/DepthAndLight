@@ -1,6 +1,7 @@
 # The Way of a Pilgrim 2: Depth and Light
 
-https://youtu.be/VoXKOwGRCvI
+Game footage:
+https://youtu.be/-EC_HU5cKww
 
 Music by [Digre](https://digre.bandcamp.com/)
 
