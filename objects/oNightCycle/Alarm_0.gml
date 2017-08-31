@@ -5,6 +5,10 @@ with(oTorch) {
 	}
 }
 
+with(oRain) {
+	part_system_depth(rain_system, 0);
+
+}
 
 
 if(alpha < 0.9)  {

@@ -186,7 +186,7 @@
             "Key": "8883fdf5-ad0e-4adc-9f79-5762f8a71d4d",
             "Value": {
                 "id": "8aef1563-cf41-4d0d-a7ea-760299600ba7",
-                "resourcePath": "objects\\oWheer\\oWheer.yy",
+                "resourcePath": "objects\\oWheat\\oWheat.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -316,6 +316,14 @@
                 "id": "82439d9a-17b5-4c5f-a013-c3b6a75f3a0c",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d4b67541-6ef6-472e-9632-8f3a570db253",
+            "Value": {
+                "id": "117fa092-6cd6-4434-9fca-88a5cead77de",
+                "resourcePath": "objects\\oRain\\oRain.yy",
+                "resourceType": "GMObject"
             }
         },
         {

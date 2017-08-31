@@ -5,6 +5,10 @@ with(oTorch) {
 	}
 }
 
+with(oRain) {
+	part_system_depth(rain_system, -1200);
+}
+
 if(alpha > 0)  {
 	alpha -= 0.01;
 	alarm[1] = 1;
