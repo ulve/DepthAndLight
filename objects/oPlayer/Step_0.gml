@@ -55,3 +55,9 @@ with(oTorch) {
 	x = fx;
 	y = fy;
 }
+
+if(hit) {
+	alarm_set(0, invinsible_time);
+	hit = false;
+	invinsible = true;
+}

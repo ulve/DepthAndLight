@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1650e2ea-74ca-4eb1-b20c-ba44c2fce7cc",
+            "Value": {
+                "id": "2e165f88-72c1-4469-b2ed-4f5c7cef73d8",
+                "resourcePath": "sounds\\bgRain\\bgRain.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1daa9139-a6cf-4eb9-9b40-63c49356fc29",
             "Value": {
                 "id": "0d9dac1c-7e6c-496c-a200-8feb4c641e43",
@@ -172,6 +180,22 @@
                 "id": "7767a178-d28f-4ada-9312-d250affec71f",
                 "resourcePath": "views\\66b84c57-7970-4979-9889-b74b6da8f755.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7a683b64-cbe9-4b94-8422-10d0bf5de644",
+            "Value": {
+                "id": "93294ae6-9d01-4c13-81da-5d81ea6b88f2",
+                "resourcePath": "objects\\oIllvillig\\oIllvillig.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7bf737bb-7eac-4636-a324-40182f2795cc",
+            "Value": {
+                "id": "c60d0c5d-887d-4b66-9e4d-cca54667e103",
+                "resourcePath": "sprites\\sIllvillig\\sIllvillig.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
