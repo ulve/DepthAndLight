@@ -5,7 +5,7 @@ if(dx < 0) {
 	image_xscale = 1;
 }
 
-if(place_meeting(x+dx, y, oBarrier)) {
+if(place_meeting(x + dx, y, oBarrier)) {
 	dx *= -1;
 }
 
