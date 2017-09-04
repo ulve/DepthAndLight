@@ -38,3 +38,5 @@ part_emitter_stream(rain_system, rain_emitter, rain_particle, 3);
 repeat(room_speed * 3) {
 	part_system_update(rain_system);
 }
+
+audio_play_sound(bgRain, 100, true)
