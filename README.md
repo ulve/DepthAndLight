@@ -1,7 +1,7 @@
 # The Way of a Pilgrim 2: Depth and Light
 
 Game footage:
-https://youtu.be/-EC_HU5cKww
+[V0.3 - Illvillig](https://youtu.be/YXblFLIpfts)
 
 Music by [Digre](https://digre.bandcamp.com/)
 
