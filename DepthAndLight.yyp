@@ -271,6 +271,22 @@
             }
         },
         {
+            "Key": "a0ff2ac1-21b8-4161-b845-3b9ba60af8dc",
+            "Value": {
+                "id": "abba0a80-c53b-49e6-91c7-6fa2896f3daa",
+                "resourcePath": "objects\\oLife\\oLife.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a3967c56-d071-4c32-9b2d-e5c6538f04e3",
+            "Value": {
+                "id": "ed89c30c-b8f1-4b9b-8aba-305ef56d6de8",
+                "resourcePath": "shaders\\shd_hit\\shd_hit.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "a3e48424-591a-44d1-874f-5c8bd4c59770",
             "Value": {
                 "id": "9811619a-ead0-4a52-be3a-2b86c8b55c85",
@@ -308,6 +324,14 @@
                 "id": "61007a22-888b-4251-9243-be04b98d2f23",
                 "resourcePath": "objects\\oWind\\oWind.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c0beb3ef-8a89-44de-939d-6fd9d077b9d4",
+            "Value": {
+                "id": "9d30fb47-7334-4297-967a-9aabbd1e7715",
+                "resourcePath": "sprites\\sHeart\\sHeart.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
